@@ -6,7 +6,6 @@ this homework, we provide a sample API with a single endpoint and ask you to wri
 the API and transform the response.
 
 ## Records API
-
 You'll be provided with a `/records` API endpoint that returns a JSON array of items in the following format:
 
 ```json
@@ -23,7 +22,6 @@ You'll be provided with a `/records` API endpoint that returns a JSON array of i
   }
 ]
 ```
-
 Each item returned from the `/records` endpoint will have the following:
 
 - **id**: A unique integer
